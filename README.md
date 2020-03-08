@@ -1,5 +1,5 @@
 # Operation-Research-jf
-algorithms for opeartion Research
+Algorithms for opeartion Research
 
 In this repository we have two algorithms.
 
